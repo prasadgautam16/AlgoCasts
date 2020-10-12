@@ -10,4 +10,4 @@ after cloning
 - add node_modules/
 - cd exercises
 - install jest using command npm install --save-dev jest -g
-- test the particular folder run "jest fib/test.js" or "jest fib/test.js --watch"
+- test the particular folder run "jest fib/test.js" or "jest reversestring/test.js --watch"
